@@ -1,0 +1,9 @@
+├── 01_basics/
+├── 02_control_flow/
+├── 03_functions/
+├── 04_data_structures/
+├── 05_oop/
+├── 06_file_handling/
+├── 07_modules/
+├── 08_projects/
+└── requirements.txt
